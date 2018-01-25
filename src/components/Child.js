@@ -15,7 +15,7 @@ function Child(props) {
       street: "101 main st"
       city:"Austin",
       zip: "78741"
-      
+
     }
 
   }
@@ -39,4 +39,3 @@ function Child(props) {
 
 
 export default Child;
-
